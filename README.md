@@ -81,5 +81,4 @@ listen stats
 **Ответы от серверов:**  
 ![](https://github.com/asad-bekov/hw-06/blob/main/img/img6.png)  
 
-**Ответ без домена example.local:**  
 ![](https://github.com/asad-bekov/hw-06/blob/main/img/img4.png)
