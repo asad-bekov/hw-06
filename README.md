@@ -30,11 +30,11 @@ listen stats
 
 ### Скриншоты
 **Ответы от серверов:**  
-![](https://github.com/asad-bekov/hw-06/blob/main/img/1.png)
-![](https://github.com/asad-bekov/hw-06/blob/main/img/2.png)  
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img1.png)
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img2.png)  
 
 **Веб-интерфейс статистики HAProxy:**  
-![](https://github.com/asad-bekov/hw-06/blob/main/img/3.png)  
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img3.png)  
 
 ---
 
@@ -76,10 +76,10 @@ listen stats
 
 ### Скриншоты
 **Веб-интерфейс статистики HAProxy:**  
-![](https://github.com/asad-bekov/hw-06/blob/main/img/5.png)  
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img5.png)
 
 **Ответы от серверов:**  
-![](https://github.com/asad-bekov/hw-06/blob/main/img/6.png)  
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img6.png)  
 
 **Ответ без домена example.local:**  
-![alt](https://github.com/asad-bekov/hw-06/blob/main/img/4.png)
+![](https://github.com/asad-bekov/hw-06/blob/main/img/img4.png)
